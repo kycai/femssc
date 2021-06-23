@@ -2,13 +2,13 @@
 
 Pre- and post-processing scripts for finite element (FE) modeling of self-drilling screw connections between thin steel sheets used in the paper "[Shear deformation behavior and modeling of self-drilling screw connections between thin steel sheets]()"
 
-![FE Model](FE_model.png)
+![FE Model](images/FE_model.png)
 
 As a type of widely utilized mechanical fastener responsible for transferring shear forces or tension-shear interactions, self-drilling screw connection plays a prominent role in the overall structural performance of cold-formed steel assembled members and structures. Although the bearing capacity of screw connections has been investigated continually, far less attention has been paid to their deformation behavior. A parameterized FE model of self-drilling screw connections is thus developed by using __femssc__ based on a built-in Python 2.X in Abaqus, to deeply explore the shear deformation behavior of screw connections and to propose a prediction model for quantitatively describe their load versus deformation relationships. Details of this FE model are presented in the related paper.
 
 Kangyi Cai 2021 @ WHU
 
-![CE1X0S-Exp](CE1X0S-Exp.gif) ![CE1X0S-FE](CE1X0S-FE.gif) ![CE1X0S-curve](CE1X0S-curve.gif)
+![CE1X0S-Exp](images/CE1X0S-Exp.gif)![CE1X0S-FE](images/CE1X0S-FE.gif)![CE1X0S-curve](images/CE1X0S-curve.gif)
 
 ## Citing
 
