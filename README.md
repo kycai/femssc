@@ -38,7 +38,7 @@ Generate .inp files, namely establish FE models of self-drilling screw connectio
 
 Based on generated .inp files, recreate jobs for computation, and obtain .rpt and .png files, corresponding to curves and contours, respectively.
 
-# Usage
+# Usages
 
 ## prepp.py
 
