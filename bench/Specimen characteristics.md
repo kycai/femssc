@@ -24,3 +24,14 @@ Specimen configurations: (a) single screw connection (S); (b) longitudinal doubl
 | 17 | EE2X4T | S550 | 1.0 | 50 | 300 | S550 | 1.0 | 50 | 300 | 2 | 4.8 | 4 | 30 | T |
 | 18 | EE2X5T | S550 | 1.0 | 50 | 300 | S550 | 1.0 | 50 | 300 | 2 | 4.8 | 5 | 30 | T |
 | 19 | EE2X6T | S550 | 1.0 | 50 | 300 | S550 | 1.0 | 50 | 300 | 2 | 4.8 | 6 | 30 | T |
+
+# comparison between the simulated and experimental results
+
+## load vresus deformation curves
+
+![load_versus_deformation_curve_comparison](load_versus_deformation_curve_comparison.png)
+
+## failure modes
+
+![simulated and experimental failure mode comparison](failure_mode_comparison.png)
+
