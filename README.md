@@ -8,6 +8,8 @@ As a type of widely utilized mechanical fastener responsible for transferring sh
 
 Kangyi Cai 2021 @ WHU
 
+![CE1X0S-Exp](CE1X0S-Exp.gif) ![CE1X0S-FE](CE1X0S-FE.gif) ![CE1X0S-curve](CE1X0S-curve.gif)
+
 ## Citing
 
 If you use these scripts in your study, please cite the related paper:
