@@ -20,7 +20,7 @@ K. Cai, H. Yuan. Shear deformation behaviour and modelling of self-drilling scre
 Or in the format of BibTex:
 ```
 @article{,
-  title={Shear deformation behavior and modeling of self-drilling screw connections between thin steel sheets},
+  title={Shear deformation behaviour and modelling of self-drilling screw connections between thin steel sheets},
   author={Kangyi Cai, and Huanxin Yuan},
   journal={},
   volume={},
