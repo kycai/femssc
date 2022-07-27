@@ -1,6 +1,6 @@
 # femssc
 
-The pre- and post-processing scripts for finite element modelling of self-drilling screw connections between thin steel sheets (femssc) were adopted in the paper "[Shear deformation behaviour and modelling of self-drilling screw connections between thin steel sheets]()"
+The pre- and post-processing scripts for finite element modelling of self-drilling screw connections between thin steel sheets (femssc) were adopted in the paper "[Shear behaviour and modelling of self-drilling screw connections between thin steel sheets]()"
 
 ![FE Model](images/FE_model.png)
 
@@ -14,13 +14,13 @@ Kangyi Cai 2021 @ WHU
 
 If you use these scripts in your study, please cite the related paper:
 ```
-K. Cai, H. Yuan. Shear deformation behaviour and modelling of self-drilling screw connections between thin steel sheets. 
+K. Cai, H. Yuan. Shear behaviour and modelling of self-drilling screw connections between thin steel sheets. 
 ```
 
 Or in the format of BibTex:
 ```
 @article{,
-  title={Shear deformation behaviour and modelling of self-drilling screw connections between thin steel sheets},
+  title={Shear behaviour and modelling of self-drilling screw connections between thin steel sheets},
   author={Kangyi Cai, and Huanxin Yuan},
   journal={},
   volume={},
