@@ -1,10 +1,10 @@
 # femssc
 
-The pre- and post-processing scripts for finite element modelling of self-drilling screw connections between thin steel sheets (femssc) were adopted in the paper "[Shear behaviour and modelling of self-drilling screw connections between thin steel sheets]()"
+The pre- and post-processing scripts for finite element modelling of self-drilling screw connections between thin steel sheets (femssc) were adopted in the paper "[Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear]()"
 
 ![FE Model](images/FE_model.png)
 
-As a type of widely utilised mechanical fastener responsible for transferring shear forces or tension-shear interactions, self-drilling screw connection plays a prominent role in the overall structural performance of cold-formed steel assembled members and structures. Although the bearing capacity of screw connections has been widely investigated, far less attention has been paid to their deformation behaviour. A parameterised FE model of self-drilling screw connections is thus developed by using __femssc__ based on the built-in Python 2.X in Abaqus software package, to further explore the shear deformation behaviour of screw connections and to propose a prediction model for quantitatively describe their load versus deformation relationships. Details of this FE model are presented in the related paper.
+As a type of widely utilised mechanical fastener responsible for transferring shear and/or tension forces, self-drilling screw connection plays a prominent role in the overall structural performance of cold-formed steel assembled members and structures. Although its bearing capacity has been widely investigated, far less attention has been paid to the deformation behaviour. A parameterised FE model of self-drilling screw connections is thus developed by using __femssc__ based on the built-in Python 2.X in ABAQUS software package, to further explore the shear deformation behaviour of screw connections and to propose a prediction model for quantitatively describe their load versus deformation relationships. Details of this FE model are presented in the related paper.
 
 Kangyi Cai 2021 @ WHU
 
@@ -14,15 +14,15 @@ Kangyi Cai 2021 @ WHU
 
 If you use these scripts in your study, please cite the related paper:
 ```
-K. Cai, H. Yuan. Shear behaviour and modelling of self-drilling screw connections between thin steel sheets. 
+K. Cai, H. Yuan. Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear. 
 ```
 
 Or in the format of BibTex:
 ```
 @article{,
-  title={Shear behaviour and modelling of self-drilling screw connections between thin steel sheets},
+  title={Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear},
   author={Kangyi Cai, and Huanxin Yuan},
-  journal={},
+  journal={Thin-Walled Structures},
   volume={},
   pages={},
   publisher={}
