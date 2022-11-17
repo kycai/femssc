@@ -14,19 +14,19 @@ Kangyi Cai 2021 @ WHU
 
 If you use these scripts in your study, please cite the related paper:
 ```
-K. Cai, H. Yuan. Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear. 
+K. Cai, H. Yuan. Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear, Thin-Walled Struct. 182 (2023) 110292. 
 ```
 
 Or in the format of BibTex:
 ```
-@article{,
+@article{cai2023testing,
   title={Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear},
-  author={Kangyi Cai, and Huanxin Yuan},
+  author={Cai, Kangyi, and Yuan, Huanxin},
   journal={Thin-Walled Structures},
-  volume={},
-  pages={},
-  publisher={}
-  doi={}
+  volume={182},
+  pages={110292},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 
