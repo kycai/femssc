@@ -25,7 +25,7 @@ Or in the format of BibTex:
   journal={Thin-Walled Structures},
   volume={182},
   pages={110292},
-  year={2021},
+  year={2023},
   publisher={Elsevier}
 }
 ```
