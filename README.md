@@ -1,6 +1,6 @@
 # femssc
 
-The pre- and post-processing scripts for finite element modelling of self-drilling screw connections between thin steel sheets (femssc) were adopted in the paper "[Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear]()"
+The pre- and post-processing scripts for finite element modelling of self-drilling screw connections between thin steel sheets (femssc) were adopted in the paper "[Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear](https://doi.org/10.1016/j.tws.2022.110292)"
 
 ![FE Model](images/FE_model.png)
 
@@ -19,14 +19,15 @@ K. Cai, H. Yuan. Testing, numerical and analytical modelling of self-drilling sc
 
 Or in the format of BibTex:
 ```
-@article{cai2023testing,
-  title={Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear},
-  author={Cai, Kangyi, and Yuan, Huanxin},
-  journal={Thin-Walled Structures},
-  volume={182},
-  pages={110292},
-  year={2023},
-  publisher={Elsevier}
+@article{CAI2023110292,
+title = {Testing, numerical and analytical modelling of self-drilling screw connections between thin steel sheets in shear},
+author = {Kangyi Cai and Huanxin Yuan},
+journal = {Thin-Walled Structures},
+volume = {182},
+pages = {110292},
+year = {2023},
+issn = {0263-8231},
+doi = {https://doi.org/10.1016/j.tws.2022.110292}
 }
 ```
 
